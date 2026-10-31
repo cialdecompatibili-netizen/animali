@@ -105,3 +105,6 @@ Tutto da Desktop Commander sul PC di Mirco, con Python. Il connettore GitHub non
 - Prezzi e specifiche della demo sono SEGNAPOSTO da confermare con Mirco: nei testi solo cose generiche, niente portate o numeri inventati.
 - Per molti prodotti: lo script e' da generalizzare in `aggiungi_prodotti.py` (input = elenco con nome, categoria, prezzo, testi IT/EN, soggetto foto), proposto a Mirco, non ancora fatto.
 - Idee categorie dal mercato (ricerca 31/10/2026): nodi e schede Meshtastic (Heltec V3/V4, LILYGO T-Beam), ripetitori solari, kit modulari RAK WisBlock, tracker GPS, comunicatori portatili, kit con Raspberry Pi.
+
+## Cose che funzionano
+- Migrare da CartaCMS (cartacms.ipermark.com/<sito>): scaricare con script\cartacms_api.py (list_categories, list_shop_categories, list_articles, art_*) in claudetemp\<sito>_dump; ATTENZIONE: i parametri con ';' o graffe in PowerShell vengono interpretati come file, passare slug/lang separati. Poi uno script Python (claudetemp\animali3_dump\migra.py) genera catalogo.json, _negozio/categoria-*.md, en/negozio/categoria/*.md, _posts e en/_posts; poi python automation\allinea_hash.py en e push. Il vecchio sito non aveva prodotti: controllare list_products prima.
