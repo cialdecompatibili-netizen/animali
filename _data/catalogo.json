@@ -2,35 +2,96 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Esempio",
-      "id": "esempio",
-      "icona": "🛍️",
+      "nome": "Cani",
+      "id": "cani",
+      "icona": "🐕",
+      "descrizione": "Tutto il necessario per la cura e il gioco quotidiano del tuo cane, per ogni taglia.",
+      "immagine": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=1200&q=80",
       "tr": {
         "en": {
-          "nome": "Example"
+          "nome": "Dogs",
+          "descrizione": "Everything you need for the daily care and play of your dog, for every size."
+        }
+      }
+    },
+    {
+      "nome": "Gatti",
+      "id": "gatti",
+      "icona": "🐈",
+      "descrizione": "Prodotti per il benessere e il divertimento del gatto, dentro casa.",
+      "immagine": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1200&q=80",
+      "tr": {
+        "en": {
+          "nome": "Cats",
+          "descrizione": "Products for the wellbeing and fun of your cat, indoors."
+        }
+      }
+    },
+    {
+      "nome": "Uccelli",
+      "id": "uccelli",
+      "icona": "🐦",
+      "descrizione": "Accessori pensati per la cura quotidiana di uccelli da compagnia.",
+      "immagine": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=1200&q=80",
+      "tr": {
+        "en": {
+          "nome": "Birds",
+          "descrizione": "Accessories designed for the daily care of companion birds."
+        }
+      }
+    },
+    {
+      "nome": "Rettili",
+      "id": "rettili",
+      "icona": "🦎",
+      "descrizione": "Tutto quello che serve per ricreare l habitat ideale del tuo rettile.",
+      "immagine": "https://images.unsplash.com/photo-1601987177651-8edfe6c20009?w=1200&q=80",
+      "tr": {
+        "en": {
+          "nome": "Reptiles",
+          "descrizione": "Everything you need to recreate the ideal habitat for your reptile."
+        }
+      }
+    },
+    {
+      "nome": "Piccoli Mammiferi",
+      "id": "piccoli-mammiferi",
+      "icona": "🐰",
+      "descrizione": "Accessori dedicati a conigli, criceti, cavie e altri piccoli amici di casa.",
+      "immagine": "https://images.unsplash.com/photo-1591561582301-7ce6588cc286?w=1200&q=80",
+      "tr": {
+        "en": {
+          "nome": "Small Mammals",
+          "descrizione": "Accessories dedicated to rabbits, hamsters, guinea pigs and other small home companions."
+        }
+      }
+    },
+    {
+      "nome": "Pesci",
+      "id": "pesci",
+      "icona": "🐟",
+      "descrizione": "Tutto per allestire e mantenere un acquario d acqua dolce sano e curato.",
+      "immagine": "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?w=1200&q=80",
+      "tr": {
+        "en": {
+          "nome": "Fish",
+          "descrizione": "Everything to set up and maintain a healthy, well-kept freshwater aquarium."
+        }
+      }
+    },
+    {
+      "nome": "Cavalli",
+      "id": "cavalli",
+      "icona": "🐴",
+      "descrizione": "Accessori e prodotti di cura pensati per il cavallo e la vita in scuderia.",
+      "immagine": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=1200&q=80",
+      "tr": {
+        "en": {
+          "nome": "Horses",
+          "descrizione": "Accessories and care products designed for the horse and stable life."
         }
       }
     }
   ],
-  "prodotti": [
-    {
-      "tipo": "digitale",
-      "id": "prodotto-esempio",
-      "nome": "Prodotto di esempio",
-      "categoria": "esempio",
-      "prezzo_centesimi": 1000,
-      "descrizione": "Descrizione breve del prodotto di esempio.",
-      "descrizione_completa": "Descrizione completa del prodotto.\nOgni riga diventa un paragrafo.",
-      "immagine": "",
-      "icona": "🛍️",
-      "visibile": true,
-      "tr": {
-        "en": {
-          "nome": "Example product",
-          "descrizione": "Short description of the example product.",
-          "descrizione_completa": "Full description of the product.\nEach line becomes a paragraph."
-        }
-      }
-    }
-  ]
+  "prodotti": []
 }

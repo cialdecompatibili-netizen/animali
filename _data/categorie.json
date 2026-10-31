@@ -1,14 +1,30 @@
 [
   {
-    "nome": "blog",
-    "descrizione": "Novita', approfondimenti e dietro le quinte"
+    "nome": "Enciclopedia del Cane",
+    "descrizione": "Tutte le razze canine spiegate: caratteristiche, taglia, carattere ed esigenze di ogni razza, dal cane da compagnia al cane da lavoro."
   },
   {
-    "nome": "Guide",
-    "descrizione": "Istruzioni passo passo, spiegate semplici."
+    "nome": "Enciclopedia del Gatto",
+    "descrizione": "Tutte le razze feline spiegate: aspetto, temperamento e cura di ogni razza, dai gatti a pelo corto ai gatti a pelo lungo."
   },
   {
-    "nome": "Novità",
-    "descrizione": "Aggiornamenti e notizie dal sito."
+    "nome": "Enciclopedia degli Uccelli",
+    "descrizione": "Le specie di uccelli da compagnia piu diffuse: caratteristiche, comportamento e cura di ogni specie, dai canarini ai pappagalli."
+  },
+  {
+    "nome": "Enciclopedia dei Rettili",
+    "descrizione": "Le specie di rettili e anfibi tenute in casa: caratteristiche, habitat ideale ed esigenze di ogni specie, da tartarughe a gechi e serpenti."
+  },
+  {
+    "nome": "Enciclopedia dei Piccoli Mammiferi",
+    "descrizione": "Tutte le razze e specie di piccoli mammiferi da compagnia: conigli, criceti, cavie e altri, con caratteristiche e cura di ognuna."
+  },
+  {
+    "nome": "Enciclopedia dei Pesci",
+    "descrizione": "Le specie di pesci d acquario piu diffuse: caratteristiche, comportamento e compatibilita di ogni specie, per acquari d acqua dolce."
+  },
+  {
+    "nome": "Enciclopedia del Cavallo",
+    "descrizione": "Tutte le razze equine spiegate: origine, caratteristiche fisiche e attitudine di ogni razza, dai cavalli da sella ai cavalli da tiro."
   }
 ]

@@ -1,6 +1,30 @@
 [
   {
-    "nome": "esempio",
-    "slug": "esempio"
+    "nome": "Cani",
+    "slug": "cani"
+  },
+  {
+    "nome": "Gatti",
+    "slug": "gatti"
+  },
+  {
+    "nome": "Uccelli",
+    "slug": "uccelli"
+  },
+  {
+    "nome": "Rettili",
+    "slug": "rettili"
+  },
+  {
+    "nome": "Piccoli Mammiferi",
+    "slug": "piccoli-mammiferi"
+  },
+  {
+    "nome": "Pesci",
+    "slug": "pesci"
+  },
+  {
+    "nome": "Cavalli",
+    "slug": "cavalli"
   }
 ]
