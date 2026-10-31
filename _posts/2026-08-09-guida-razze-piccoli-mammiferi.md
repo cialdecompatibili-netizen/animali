@@ -2,7 +2,7 @@
 layout: single
 title: "Le Razze di Piccoli Mammiferi"
 date: 2026-08-09
-permalink: /blog/guida-razze-piccoli-mammiferi/
+permalink: /blog/enciclopedia-dei-piccoli-mammiferi/guida-razze-piccoli-mammiferi/
 excerpt: "Guida ai piccoli mammiferi."
 header:
   teaser: "https://images.unsplash.com/photo-1591561582301-7ce6588cc286?w=1200&q=80"

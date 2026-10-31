@@ -2,7 +2,7 @@
 layout: single
 title: "Cat Breeds"
 date: 2026-08-09
-permalink: /en/blog/cat-breeds-guide/
+permalink: /en/blog/cat-encyclopedia/cat-breeds-guide/
 excerpt: "Guide to cat breeds."
 header:
   teaser: "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1200&q=80"

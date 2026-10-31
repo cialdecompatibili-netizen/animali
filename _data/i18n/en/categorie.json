@@ -1,14 +1,30 @@
 [
   {
-    "nome": "blog",
-    "descrizione": "News, insights and behind the scenes"
+    "nome": "Dog Encyclopedia",
+    "descrizione": "All dog breeds explained: characteristics, size, temperament and needs of every breed, from companion dogs to working dogs."
   },
   {
-    "nome": "Guides",
-    "descrizione": "Step-by-step instructions, explained simply."
+    "nome": "Cat Encyclopedia",
+    "descrizione": "All cat breeds explained: appearance, temperament and care of every breed, from short-haired to long-haired cats."
   },
   {
-    "nome": "News",
-    "descrizione": "Updates and news from the site."
+    "nome": "Bird Encyclopedia",
+    "descrizione": "The most common companion bird species: characteristics, behavior and care of every species, from canaries to parrots."
+  },
+  {
+    "nome": "Reptile Encyclopedia",
+    "descrizione": "Reptile and amphibian species kept at home: characteristics, ideal habitat and needs of every species, from turtles to geckos and snakes."
+  },
+  {
+    "nome": "Small Mammal Encyclopedia",
+    "descrizione": "All breeds and species of companion small mammals: rabbits, hamsters, guinea pigs and more, with characteristics and care for each."
+  },
+  {
+    "nome": "Fish Encyclopedia",
+    "descrizione": "The most common aquarium fish species: characteristics, behavior and compatibility of every species, for freshwater aquariums."
+  },
+  {
+    "nome": "Horse Encyclopedia",
+    "descrizione": "All horse breeds explained: origin, physical characteristics and temperament of every breed, from riding horses to draft horses."
   }
 ]

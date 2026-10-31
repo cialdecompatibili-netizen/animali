@@ -2,7 +2,7 @@
 layout: single
 title: "Horse Breeds"
 date: 2026-08-09
-permalink: /en/blog/horse-breeds-guide/
+permalink: /en/blog/horse-encyclopedia/horse-breeds-guide/
 excerpt: "Guide to horse breeds."
 header:
   teaser: "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=1200&q=80"

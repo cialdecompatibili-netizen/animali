@@ -2,7 +2,7 @@
 layout: single
 title: "Fish Species"
 date: 2026-08-09
-permalink: /en/blog/fish-species-guide/
+permalink: /en/blog/fish-encyclopedia/fish-species-guide/
 excerpt: "Guide to fish species."
 header:
   teaser: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?w=1200&q=80"
