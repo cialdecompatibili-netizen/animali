@@ -4,6 +4,8 @@ title: "Dog Breeds"
 date: 2026-08-09
 permalink: /en/blog/dog-breeds-guide/
 excerpt: "Guide to dog breeds."
+header:
+  teaser: "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=1200&q=80"
 categories:
   - "Dog Encyclopedia"
 lang: en

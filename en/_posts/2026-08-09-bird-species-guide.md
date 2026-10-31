@@ -4,6 +4,8 @@ title: "Bird Species"
 date: 2026-08-09
 permalink: /en/blog/bird-species-guide/
 excerpt: "Guide to bird species."
+header:
+  teaser: "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?w=1200&q=80"
 categories:
   - "Bird Encyclopedia"
 lang: en

@@ -4,6 +4,8 @@ title: "Small Mammal Breeds"
 date: 2026-08-09
 permalink: /en/blog/small-mammals-guide/
 excerpt: "Guide to small mammals."
+header:
+  teaser: "https://images.unsplash.com/photo-1591561582301-7ce6588cc286?w=1200&q=80"
 categories:
   - "Small Mammal Encyclopedia"
 lang: en
