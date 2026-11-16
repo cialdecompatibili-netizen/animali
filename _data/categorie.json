@@ -26,5 +26,13 @@
   {
     "nome": "Enciclopedia del Cavallo",
     "descrizione": "Tutte le razze equine spiegate: origine, caratteristiche fisiche e attitudine di ogni razza, dai cavalli da sella ai cavalli da tiro."
+  },
+  {
+    "nome": "Guide",
+    "descrizione": "Guide pratiche per la cura quotidiana di cani, gatti e tutti gli animali di casa."
+  },
+  {
+    "nome": "Novità",
+    "descrizione": "Novità, consigli e aggiornamenti dal mondo degli animali domestici."
   }
 ]

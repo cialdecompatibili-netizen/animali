@@ -26,5 +26,13 @@
   {
     "nome": "Horse Encyclopedia",
     "descrizione": "All horse breeds explained: origin, physical characteristics and temperament of every breed, from riding horses to draft horses."
+  },
+  {
+    "nome": "Guides",
+    "descrizione": "Practical guides for the daily care of dogs, cats and all household pets."
+  },
+  {
+    "nome": "News",
+    "descrizione": "News, tips and updates from the world of pets."
   }
 ]

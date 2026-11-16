@@ -93,5 +93,426 @@
       }
     }
   ],
-  "prodotti": []
+  "prodotti": [
+    {
+      "tipo": "fisico",
+      "id": "royal-canin-maxi-adult-15-kg",
+      "nome": "Royal Canin Maxi Adult 15 kg",
+      "categoria": "cani",
+      "prezzo_centesimi": 6990,
+      "descrizione": "Crocchette complete per cani adulti di taglia grande (26-44 kg).",
+      "descrizione_completa": "Crocchette complete per cani adulti di taglia grande (26-44 kg).\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐕",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Royal Canin Maxi Adult 15 kg",
+          "descrizione": "Complete dry food for adult large-breed dogs (26-44 kg).",
+          "descrizione_completa": "Complete dry food for adult large-breed dogs (26-44 kg).\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "kong-classic-large",
+      "nome": "Kong Classic Large",
+      "categoria": "cani",
+      "prezzo_centesimi": 1390,
+      "descrizione": "Giocattolo in gomma resistente da riempire con snack, ideale per masticare.",
+      "descrizione_completa": "Giocattolo in gomma resistente da riempire con snack, ideale per masticare.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐕",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Kong Classic Large",
+          "descrizione": "Durable rubber toy to stuff with treats, ideal for chewing.",
+          "descrizione_completa": "Durable rubber toy to stuff with treats, ideal for chewing.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "ruffwear-front-range-imbracatura",
+      "nome": "Ruffwear Front Range Imbracatura",
+      "categoria": "cani",
+      "prezzo_centesimi": 4490,
+      "descrizione": "Imbracatura imbottita e regolabile per passeggiate comode e sicure.",
+      "descrizione_completa": "Imbracatura imbottita e regolabile per passeggiate comode e sicure.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐕",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Ruffwear Front Range Imbracatura",
+          "descrizione": "Padded, adjustable harness for comfortable and safe walks.",
+          "descrizione_completa": "Padded, adjustable harness for comfortable and safe walks.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "royal-canin-indoor-27-10-kg",
+      "nome": "Royal Canin Indoor 27 - 10 kg",
+      "categoria": "gatti",
+      "prezzo_centesimi": 5990,
+      "descrizione": "Crocchette per gatti adulti che vivono in appartamento.",
+      "descrizione_completa": "Crocchette per gatti adulti che vivono in appartamento.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐈",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Royal Canin Indoor 27 - 10 kg",
+          "descrizione": "Dry food for adult cats living indoors.",
+          "descrizione_completa": "Dry food for adult cats living indoors.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "catit-flower-fountain",
+      "nome": "Catit Flower Fountain",
+      "categoria": "gatti",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Fontanella ad acqua corrente a forma di fiore, stimola il gatto a bere.",
+      "descrizione_completa": "Fontanella ad acqua corrente a forma di fiore, stimola il gatto a bere.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐈",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Catit Flower Fountain",
+          "descrizione": "Flower-shaped running-water fountain that encourages cats to drink.",
+          "descrizione_completa": "Flower-shaped running-water fountain that encourages cats to drink.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "ferplast-lettiera-cathy-clever-smart",
+      "nome": "Ferplast Lettiera Cathy Clever&Smart",
+      "categoria": "gatti",
+      "prezzo_centesimi": 2990,
+      "descrizione": "Lettiera chiusa con filtro al carbone per ridurre gli odori.",
+      "descrizione_completa": "Lettiera chiusa con filtro al carbone per ridurre gli odori.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐈",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Ferplast Lettiera Cathy Clever&Smart",
+          "descrizione": "Covered litter box with a charcoal filter to reduce odours.",
+          "descrizione_completa": "Covered litter box with a charcoal filter to reduce odours.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "versele-laga-prestige-canarini-1-kg",
+      "nome": "Versele-Laga Prestige Canarini 1 kg",
+      "categoria": "uccelli",
+      "prezzo_centesimi": 690,
+      "descrizione": "Miscela di semi per canarini, con ingredienti selezionati.",
+      "descrizione_completa": "Miscela di semi per canarini, con ingredienti selezionati.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐦",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Versele-Laga Prestige Canarini 1 kg",
+          "descrizione": "Seed mix for canaries with selected ingredients.",
+          "descrizione_completa": "Seed mix for canaries with selected ingredients.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "ferplast-gabbia-dario",
+      "nome": "Ferplast Gabbia Dario",
+      "categoria": "uccelli",
+      "prezzo_centesimi": 3990,
+      "descrizione": "Gabbia per canarini e piccoli uccelli, completa di posatoi e mangiatoie.",
+      "descrizione_completa": "Gabbia per canarini e piccoli uccelli, completa di posatoi e mangiatoie.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐦",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Ferplast Gabbia Dario",
+          "descrizione": "Cage for canaries and small birds, with perches and feeders.",
+          "descrizione_completa": "Cage for canaries and small birds, with perches and feeders.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "vitakraft-menu-vital-pappagallini-1-kg",
+      "nome": "Vitakraft Menu Vital Pappagallini 1 kg",
+      "categoria": "uccelli",
+      "prezzo_centesimi": 990,
+      "descrizione": "Alimento completo per pappagallini ondulati.",
+      "descrizione_completa": "Alimento completo per pappagallini ondulati.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐦",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Vitakraft Menu Vital Pappagallini 1 kg",
+          "descrizione": "Complete food for budgerigars.",
+          "descrizione_completa": "Complete food for budgerigars.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "exo-terra-terrario-glass-45x45x60",
+      "nome": "Exo Terra Terrario Glass 45x45x60",
+      "categoria": "rettili",
+      "prezzo_centesimi": 11990,
+      "descrizione": "Terrario in vetro con ventilazione e doppia porta frontale.",
+      "descrizione_completa": "Terrario in vetro con ventilazione e doppia porta frontale.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🦎",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Exo Terra Terrario Glass 45x45x60",
+          "descrizione": "Glass terrarium with ventilation and front-opening doors.",
+          "descrizione_completa": "Glass terrarium with ventilation and front-opening doors.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "exo-terra-repti-glo-5-0-uvb",
+      "nome": "Exo Terra Repti Glo 5.0 UVB",
+      "categoria": "rettili",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Lampada fluorescente UVB per rettili diurni.",
+      "descrizione_completa": "Lampada fluorescente UVB per rettili diurni.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🦎",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Exo Terra Repti Glo 5.0 UVB",
+          "descrizione": "UVB fluorescent lamp for diurnal reptiles.",
+          "descrizione_completa": "UVB fluorescent lamp for diurnal reptiles.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "zoo-med-repti-calcium-con-d3-85-g",
+      "nome": "Zoo Med Repti Calcium con D3 85 g",
+      "categoria": "rettili",
+      "prezzo_centesimi": 1190,
+      "descrizione": "Integratore di calcio con vitamina D3 per rettili.",
+      "descrizione_completa": "Integratore di calcio con vitamina D3 per rettili.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🦎",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Zoo Med Repti Calcium con D3 85 g",
+          "descrizione": "Calcium supplement with vitamin D3 for reptiles.",
+          "descrizione_completa": "Calcium supplement with vitamin D3 for reptiles.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "versele-laga-cuni-complete-1-75-kg",
+      "nome": "Versele-Laga Cuni Complete 1,75 kg",
+      "categoria": "piccoli-mammiferi",
+      "prezzo_centesimi": 990,
+      "descrizione": "Alimento completo in pellet per conigli nani e adulti.",
+      "descrizione_completa": "Alimento completo in pellet per conigli nani e adulti.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐰",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Versele-Laga Cuni Complete 1,75 kg",
+          "descrizione": "Complete pelleted food for dwarf and adult rabbits.",
+          "descrizione_completa": "Complete pelleted food for dwarf and adult rabbits.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "ferplast-gabbia-criceti-favola",
+      "nome": "Ferplast Gabbia Criceti Favola",
+      "categoria": "piccoli-mammiferi",
+      "prezzo_centesimi": 2990,
+      "descrizione": "Gabbia per criceti con ruota, casetta e abbeveratoio.",
+      "descrizione_completa": "Gabbia per criceti con ruota, casetta e abbeveratoio.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐰",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Ferplast Gabbia Criceti Favola",
+          "descrizione": "Hamster cage with wheel, house and water bottle.",
+          "descrizione_completa": "Hamster cage with wheel, house and water bottle.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "jr-farm-fieno-di-timothy-1-kg",
+      "nome": "JR Farm Fieno di Timothy 1 kg",
+      "categoria": "piccoli-mammiferi",
+      "prezzo_centesimi": 1190,
+      "descrizione": "Fieno naturale ricco di fibre per conigli, cavie e cincillà.",
+      "descrizione_completa": "Fieno naturale ricco di fibre per conigli, cavie e cincillà.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐰",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "JR Farm Fieno di Timothy 1 kg",
+          "descrizione": "Natural high-fibre hay for rabbits, guinea pigs and chinchillas.",
+          "descrizione_completa": "Natural high-fibre hay for rabbits, guinea pigs and chinchillas.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "tetra-tetramin-fiocchi-250-ml",
+      "nome": "Tetra TetraMin Fiocchi 250 ml",
+      "categoria": "pesci",
+      "prezzo_centesimi": 890,
+      "descrizione": "Mangime in fiocchi per tutti i pesci tropicali d'acquario.",
+      "descrizione_completa": "Mangime in fiocchi per tutti i pesci tropicali d'acquario.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐟",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Tetra TetraMin Fiocchi 250 ml",
+          "descrizione": "Flake food for all tropical aquarium fish.",
+          "descrizione_completa": "Flake food for all tropical aquarium fish.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "eheim-classic-250-filtro-esterno",
+      "nome": "Eheim Classic 250 Filtro Esterno",
+      "categoria": "pesci",
+      "prezzo_centesimi": 10990,
+      "descrizione": "Filtro esterno silenzioso per acquari fino a 250 litri.",
+      "descrizione_completa": "Filtro esterno silenzioso per acquari fino a 250 litri.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐟",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Eheim Classic 250 Filtro Esterno",
+          "descrizione": "Quiet external filter for aquariums up to 250 litres.",
+          "descrizione_completa": "Quiet external filter for aquariums up to 250 litres.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "sera-aquatan-500-ml",
+      "nome": "Sera Aquatan 500 ml",
+      "categoria": "pesci",
+      "prezzo_centesimi": 1090,
+      "descrizione": "Biocondizionatore che rende l'acqua del rubinetto adatta ai pesci.",
+      "descrizione_completa": "Biocondizionatore che rende l'acqua del rubinetto adatta ai pesci.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐟",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Sera Aquatan 500 ml",
+          "descrizione": "Water conditioner that makes tap water safe for fish.",
+          "descrizione_completa": "Water conditioner that makes tap water safe for fish.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pavo-speedibeet-20-kg",
+      "nome": "Pavo SpeediBeet 20 kg",
+      "categoria": "cavalli",
+      "prezzo_centesimi": 2990,
+      "descrizione": "Polpe di barbabietola da ammollo, fonte di fibra digeribile per cavalli.",
+      "descrizione_completa": "Polpe di barbabietola da ammollo, fonte di fibra digeribile per cavalli.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐴",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Pavo SpeediBeet 20 kg",
+          "descrizione": "Soaking sugar beet pulp, a digestible fibre source for horses.",
+          "descrizione_completa": "Soaking sugar beet pulp, a digestible fibre source for horses.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "horseware-rambo-original-coperta",
+      "nome": "Horseware Rambo Original Coperta",
+      "categoria": "cavalli",
+      "prezzo_centesimi": 11990,
+      "descrizione": "Coperta impermeabile da paddock, resistente e foderata.",
+      "descrizione_completa": "Coperta impermeabile da paddock, resistente e foderata.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐴",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Horseware Rambo Original Coperta",
+          "descrizione": "Waterproof, lined and durable turnout rug.",
+          "descrizione_completa": "Waterproof, lined and durable turnout rug.\nDemo product: real name, indicative price."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "kentucky-horsewear-gambali-velcro",
+      "nome": "Kentucky Horsewear Gambali Velcro",
+      "categoria": "cavalli",
+      "prezzo_centesimi": 5490,
+      "descrizione": "Gambali protettivi con chiusura a velcro per il lavoro in piano e salto.",
+      "descrizione_completa": "Gambali protettivi con chiusura a velcro per il lavoro in piano e salto.\nProdotto dimostrativo: nome reale, prezzo indicativo.",
+      "immagine": "",
+      "icona": "🐴",
+      "visibile": true,
+      "demo": true,
+      "tr": {
+        "en": {
+          "nome": "Kentucky Horsewear Gambali Velcro",
+          "descrizione": "Protective boots with hook-and-loop closure for flatwork and jumping.",
+          "descrizione_completa": "Protective boots with hook-and-loop closure for flatwork and jumping.\nDemo product: real name, indicative price."
+        }
+      }
+    }
+  ]
 }
